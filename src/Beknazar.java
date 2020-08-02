@@ -4,8 +4,5 @@ public class Beknazar {
         System.out.println("Beknazar");
     }
 
-<<<<<<< HEAD
-=======
-      }
->>>>>>> c606870877a8bb9562dd89692057deaac0940483
+    }
 }
