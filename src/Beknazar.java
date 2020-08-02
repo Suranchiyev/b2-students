@@ -4,5 +4,5 @@ public class Beknazar {
         System.out.println("Beknazar");
     }
 
-      }
+    }
 }
